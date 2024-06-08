@@ -135,6 +135,7 @@
     <ClCompile Include="Array_search.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Array_Search2.h" />
     <ClInclude Include="Array_Sort.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
